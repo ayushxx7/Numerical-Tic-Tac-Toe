@@ -8,21 +8,7 @@
 
 **Numerical Tic-Tac-Toe** is a reinforcement learning project that implements a **Q-Learning** agent capable of winning a variant of Tic-Tac-Toe using numbers 1-9. The agent learns to optimize its strategy against a stochastic environment through episodic exploration and exploitation.
 
-## 🎬 Showcase Gallery
-| 🧠 Agent Convergence | 🎮 Game Environment |
-| :---: | :---: |
-| ![Convergence](https://raw.githubusercontent.com/ayushxx7/Numerical-Tic-Tac-Toe/master/showcase/convergence.png) | ![Board](https://raw.githubusercontent.com/ayushxx7/Numerical-Tic-Tac-Toe/master/showcase/board.png) |
-
-## 📊 Repo Health: 85 / 100 (Stable)
-This project is a solid implementation of fundamental Reinforcement Learning principles.
-
-| Category | Item | Status | Score |
-| :--- | :--- | :--- | :--- |
-| **Documentation** | README & LICENSE | ✅ Updated | 15 / 15 |
-| **Security** | Logic Verification | ✅ Secure | 15 / 15 |
-| **Automation** | Q-Learning Loop | ✅ Working | 20 / 20 |
-| **Showcase** | Convergence Plots | ⚠️ Pending | 10 / 20 |
-| **Distribution** | Jupyter Notebook | ✅ Active | 25 / 30 |
+`✅ RL Agent Training | ✅ Stochastic Environment | ✅ MIT Licensed | ✅ Jupyter Notebook Hub`
 
 ## 🏗 Architecture
 The system is built with a decoupled Environment-Agent architecture, following the standard RL Markov Decision Process (MDP) framework.
